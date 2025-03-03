@@ -176,8 +176,8 @@
 </head>
 <body>
     <header>
-        <h1>Image Compression Tool</h1>
-        <p>Optimize your images for web use with adjustable compression levels.</p>
+        <h1><a href="image-compression-tool.html" style="color: inherit; text-decoration: none;">Image Compression Tool</a></h1>
+<p>Optimize your images for web use with adjustable compression levels. <a href="image-compression-tool.html" style="color: #4CAF50; text-decoration: underline;">Try it now!</a></p>
     </header>
 
     <main>
