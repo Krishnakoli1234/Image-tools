@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Compress your images online with our fully responsive image compression tool. Optimize images for web use with adjustable compression levels.">
     <meta name="keywords" content="image compression, optimize images, image optimizer, online image compressor">
-    <meta name="author" content="Your Name">
+    <meta name="Krishna" content="Your Name">
     <title>Image Compression Tool - Optimize Your Images Online</title>
     <style>
         /* Global Styles */
